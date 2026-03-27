@@ -92,6 +92,9 @@ Four multilingual models were fine-tuned on this dataset:
 
 > **NepTam-NLLB consistently achieves the best performance** across both dataset sizes and both translation directions.
 
+## Data and Models
+Link: https://hf.co/collections/ilprl-docse/neptam-a-nepali-tamang-parallel-corpus-and-baseline-machine
 
 ## 📝 Citation
 Our paper has been accepted for publication at LREC 2026. If you use this dataset or findings in your research, please cite our work.
+Paper Link: https://arxiv.org/abs/2603.14053
